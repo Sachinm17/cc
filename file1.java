@@ -1,2 +1,2 @@
 this is my first file in workspace
-editing file1.java
+this is my new line in file1.txt
